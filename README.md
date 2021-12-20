@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kfes50509
 - 👀 I’m interested in React, React Native, Android Studio, Xcode
 - 🌱 I’m currently learning JavaScript,Python
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me =>> kfes50509@gmail.com
 
 <!---
